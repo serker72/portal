@@ -11,7 +11,7 @@ html {
     height: 100%;
 }
 body {
-    background-color: #fafafa;
+    background: url(../images/bg.jpg) repeat;
     font: 12px/18px Arial, Tahoma, Verdana, sans-serif;
     height: 100%;
     width: 100%;
