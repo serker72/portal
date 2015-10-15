@@ -24,11 +24,41 @@ body {
     background-color: #fafafa;
 }
 .header {
-    height: 200px;
+    height: 280px;
 }
 .header1 {
     height: 40px;
     background-color: #adadad;
+    padding-top: 10px;
+}
+.header1_1 {
+    background: url(../images/key_d.png) no-repeat left 35px top 10px;
+    padding-top: 5px;
+}
+.header1_1 a {
+    font-family: "HelveticaNeue Light"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 17px;
+    font-weight: bold;
+    color: #d6d6d6;
+    margin-left: 55px;
+    text-decoration: underline;
+}
+.header1_2 {
+    background: url(../images/pin2.png) no-repeat left 75px top 10px;
+    padding-top: 5px;
+}
+.header1_2 a {
+    font-family: "HelveticaNeue Light"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 17px;
+    font-weight: bold;
+    color: #d6d6d6;
+    margin-left: 95px;
+    text-decoration: underline;
+}
+.header1_2 input {
+    margin-left: 30px;
+    height: 23px;
+    width: 220px;
 }
 .header2 {
     height: 105px;
@@ -37,6 +67,10 @@ body {
 .header3 {
     height: 50px;
     background-color: #adadad;
+}
+.header4 {
+    height: 80px;
+    background-color: #cdcae6;
 }
 .logo {
     background: url(../images/logo.png) no-repeat center;
