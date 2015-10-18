@@ -204,7 +204,7 @@ body {
 .content-left {
     padding-left: 35px;
 }
-.content-block-label {
+.content-left-block-label {
     font-family: "PFDinTextPro", "HelveticaNeue Light"; /*, Verdana, Tahoma, Sans-serif;*/
     font-size: 24px;
     font-weight: bold;
@@ -212,11 +212,11 @@ body {
     margin-top: 18px;
     margin-bottom: 11px;
 }
-.content-block-header {
+.content-left-block-header {
     background-color: #eb4e2d;
     height: 33px;
 }
-.content-block-header-a1 {
+.content-left-block-header-a1 {
     font-family: "HelveticaNeue"; /*, Verdana, Tahoma, Sans-serif;*/
     font-size: 17px;
     font-weight: bold;
@@ -224,7 +224,7 @@ body {
     padding-left: 6px;
     text-decoration: underline;
 }
-.content-block-header-a2 {
+.content-left-block-header-a2 {
     font-family: "HelveticaNeue"; /*, Verdana, Tahoma, Sans-serif;*/
     font-size: 13px;
     font-weight: bold;
@@ -232,38 +232,39 @@ body {
     padding-left: 14px;
     text-decoration: underline;
 }
-.content-block-first-line {
+.content-left-block-first-line {
     border-left: #eb4e2d 1px solid;
     border-right: #eb4e2d 1px solid;
     padding-top: 10px;
     padding-bottom: 10px;
 }
-.content-block-line {
+.content-left-block-line {
     border-left: #eb4e2d 1px solid;
     border-right: #eb4e2d 1px solid;
     padding-bottom: 10px;
 }
-.content-block-last-line {
+.content-left-block-last-line {
     border-left: #eb4e2d 1px solid;
     border-right: #eb4e2d 1px solid;
     border-bottom: #eb4e2d 1px solid;
+    padding-bottom: 5px;
     margin-bottom: 30px;
 }
-.content-block-line-col-1 {
-    width: 23%;
+.content-left-block-line-col-1 {
+    width: 65px;
     float: left;
 }
-.content-block-line-col-1 img {
-    width: 84%;
-    height: auto;
+.content-left-block-line-col-1 img {
+    width: 55px;
+    height: 55px;
     margin: 0px 5px;
 }
-.content-block-line-col-2 {
-    width: 72%;
+.content-left-block-line-col-2 {
+    width: 165px;
     float: right;
     padding: 0 5px;
 }
-.content-block-line-col-2-d1 {
+.content-left-block-line-col-2-d1 {
     font-family: "HelveticaNeue Regular"; /*, Verdana, Tahoma, Sans-serif;*/
     font-size: 17px;
     color: #c4c4c4;
@@ -271,21 +272,152 @@ body {
     padding-top: 5px;
     float: left;
 }
-.content-block-line-col-2-d2 {
+.content-left-block-line-col-2-d2 {
     background: url(../images/cloud.png) no-repeat left center;
     color: #eb4e2d;
     float: right;
-    width: 65px;
+    width: 60px;
 }
-.content-block-line-col-2-d2 span {
-    padding-left: 20px;
+.content-left-block-line-col-2-d2 span {
+    padding-left: 17px;
     font-weight: bold;
 }
-.content-block-line-col-2-d3 {
+.content-left-block-line-col-2-d3 {
     font-family: "HelveticaNeue Regular"; /*, Verdana, Tahoma, Sans-serif;*/
     font-size: 15px;
     color: #c4c4c4;
     text-decoration: none;
+}
+
+.content-center {
+    padding-left: 0px;
+    padding-top: 49px;
+}
+.content-center-block-header {
+    background-color: #adadad;
+    height: 33px;
+}
+.content-center-block-header-a1 {
+    font-family: "HelveticaNeue"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 17px;
+    font-weight: bold;
+    color: #ffffff;
+    padding-left: 10px;
+    text-decoration: none;
+    float: left;
+}
+.content-center-block-header-a2 {
+    font-family: "HelveticaNeue"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 13px;
+    font-weight: bold;
+    color: #dedede;
+    padding-right: 10px;
+    text-decoration: underline;
+    float: right;
+}
+.content-center-block-first-line {
+    border-left: #adadad 1px solid;
+    border-right: #adadad 1px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.content-center-block-line {
+    border-left: #adadad 1px solid;
+    border-right: #adadad 1px solid;
+    padding-bottom: 10px;
+}
+.content-center-block-last-line {
+    border-left: #adadad 1px solid;
+    border-right: #adadad 1px solid;
+    border-bottom: #adadad 1px solid;
+    padding-bottom: 5px;
+    margin-bottom: 30px;
+}
+.content-center-block-line-col-1 {
+    width: 65px;
+    float: left;
+}
+.content-center-block-line-col-1 img {
+    width: 55px;
+    height: 55px;
+    margin: 0px 5px;
+}
+.content-center-block-line-col-2 {
+    width: 510px;
+    float: right;
+    padding: 0 5px;
+}
+.content-center-block-line-col-2-d1 {
+    font-family: "HelveticaNeue Regular"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 17px;
+    color: #c4c4c4;
+    text-decoration: underline;
+    padding-top: 5px;
+    float: left;
+}
+.content-center-block-line-col-2-d2 {
+    color: #eb4e2d;
+    float: right;
+    width: 60px;
+    padding-right: 15px;
+}
+.content-center-block-line-col-2-d2 span {
+    padding-left: 17px;
+    font-weight: bold;
+}
+.content-center-block-line-col-2-d3 {
+    font-family: "HelveticaNeue Regular"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 15px;
+    color: #c4c4c4;
+    text-decoration: none;
+    float: left;
+}
+
+
+.content-right {
+    padding-left: 0px;
+    padding-top: 49px;
+}
+.ad-block-first {
+    color: #ffffff;
+    font-family: "PFDinTextPro", "HelveticaNeue Regular"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 26px;
+    font-weight: bold;
+    background-color: #cecbe9;
+    width: 220px;
+    height: 210px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+.ad-block {
+    color: #ffffff;
+    font-family: "PFDinTextPro", "HelveticaNeue Regular"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 26px;
+    font-weight: bold;
+    background-color: #cecbe9;
+    width: 220px;
+    height: 210px;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+.ad-block-last {
+    color: #ffffff;
+    font-family: "PFDinTextPro", "HelveticaNeue Regular"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 26px;
+    font-weight: bold;
+    background-color: #cecbe9;
+    width: 220px;
+    height: 95px;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+}
+.ad-block-first p, .ad-block p {
+    padding-top: 90px;
 }
 
 /*--------------------- FOOTER -----------------------*/

@@ -98,97 +98,216 @@
                 <div class="content row-fluid">
                     <div class="span3 content-left">
                         <div>
-                            <div class="content-block-label">Заказчики</div>
-                            <div class="content-block-header">
-                                <a class="content-block-header-a1" href="#">Случайные</a>
-                                <a class="content-block-header-a2" href="#">Новые</a>
-                                <a class="content-block-header-a2" href="#">Популярные</a>
+                            <div class="content-left-block-label">Заказчики</div>
+                            <div class="content-left-block-header">
+                                <a class="content-left-block-header-a1" href="#">Случайные</a>
+                                <a class="content-left-block-header-a2" href="#">Новые</a>
+                                <a class="content-left-block-header-a2" href="#">Популярные</a>
                             </div>
-                            <div class="content-block-first-line">
-                                <div class="content-block-line-col-1">
+                            <div class="content-left-block-first-line">
+                                <div class="content-left-block-line-col-1">
                                     <img src="">
                                 </div>
-                                <div class="content-block-line-col-2">
-                                    <div class="content-block-line-col-2-d1">Имя/Название</div>
-                                    <div class="content-block-line-col-2-d2"><span>+1&nbsp;0&nbsp;-1</span></div>
+                                <div class="content-left-block-line-col-2">
+                                    <div class="content-left-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-left-block-line-col-2-d2"><span>+1&nbsp;0&nbsp;-1</span></div>
                                     <div class="clearfix"></div>
-                                    <div class="content-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
+                                    <div class="content-left-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
                                 </div>
                                 <div class="clearfix"></div>
                             </div>
-                            <div class="content-block-line">
-                                <div class="content-block-line-col-1">
+                            <div class="content-left-block-line">
+                                <div class="content-left-block-line-col-1">
                                     <img src="">
                                 </div>
-                                <div class="content-block-line-col-2">
-                                    <div class="content-block-line-col-2-d1">Имя/Название</div>
-                                    <div class="content-block-line-col-2-d2"><span>+2&nbsp;1&nbsp;-2</span></div>
+                                <div class="content-left-block-line-col-2">
+                                    <div class="content-left-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-left-block-line-col-2-d2"><span>+2&nbsp;1&nbsp;-2</span></div>
                                     <div class="clearfix"></div>
-                                    <div class="content-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
+                                    <div class="content-left-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
                                 </div>
                                 <div class="clearfix"></div>
                             </div>
-                            <div class="content-block-last-line">
-                                <div class="content-block-line-col-1">
+                            <div class="content-left-block-line">
+                                <div class="content-left-block-line-col-1">
                                     <img src="">
                                 </div>
-                                <div class="content-block-line-col-2">
-                                    <div class="content-block-line-col-2-d1">Имя/Название</div>
-                                    <div class="content-block-line-col-2-d2"><span>+3&nbsp;2&nbsp;-3</span></div>
+                                <div class="content-left-block-line-col-2">
+                                    <div class="content-left-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-left-block-line-col-2-d2"><span>+2&nbsp;1&nbsp;-2</span></div>
                                     <div class="clearfix"></div>
-                                    <div class="content-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
+                                    <div class="content-left-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-left-block-line">
+                                <div class="content-left-block-line-col-1">
+                                    <img src="">
+                                </div>
+                                <div class="content-left-block-line-col-2">
+                                    <div class="content-left-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-left-block-line-col-2-d2"><span>+2&nbsp;1&nbsp;-2</span></div>
+                                    <div class="clearfix"></div>
+                                    <div class="content-left-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-left-block-last-line">
+                                <div class="content-left-block-line-col-1">
+                                    <img src="">
+                                </div>
+                                <div class="content-left-block-line-col-2">
+                                    <div class="content-left-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-left-block-line-col-2-d2"><span>+3&nbsp;2&nbsp;-3</span></div>
+                                    <div class="clearfix"></div>
+                                    <div class="content-left-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
                                 </div>
                                 <div class="clearfix"></div>
                             </div>
                         </div>
                         <div>
-                            <div class="content-block-label">Мастера</div>
-                            <div class="content-block-header">
-                                <a class="content-block-header-a1" href="#">Случайные</a>
-                                <a class="content-block-header-a2" href="#">Новые</a>
-                                <a class="content-block-header-a2" href="#">Популярные</a>
+                            <div class="content-left-block-label">Мастера</div>
+                            <div class="content-left-block-header">
+                                <a class="content-left-block-header-a1" href="#">Случайные</a>
+                                <a class="content-left-block-header-a2" href="#">Новые</a>
+                                <a class="content-left-block-header-a2" href="#">Популярные</a>
                             </div>
-                            <div class="content-block-first-line">
-                                <div class="content-block-line-col-1">
+                            <div class="content-left-block-first-line">
+                                <div class="content-left-block-line-col-1">
                                     <img src="">
                                 </div>
-                                <div class="content-block-line-col-2">
-                                    <div class="content-block-line-col-2-d1">Имя/Название</div>
-                                    <div class="content-block-line-col-2-d2"><span>+1&nbsp;0&nbsp;-1</span></div>
+                                <div class="content-left-block-line-col-2">
+                                    <div class="content-left-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-left-block-line-col-2-d2"><span>+1&nbsp;0&nbsp;-1</span></div>
                                     <div class="clearfix"></div>
-                                    <div class="content-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
+                                    <div class="content-left-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
                                 </div>
                                 <div class="clearfix"></div>
                             </div>
-                            <div class="content-block-line">
-                                <div class="content-block-line-col-1">
+                            <div class="content-left-block-line">
+                                <div class="content-left-block-line-col-1">
                                     <img src="">
                                 </div>
-                                <div class="content-block-line-col-2">
-                                    <div class="content-block-line-col-2-d1">Имя/Название</div>
-                                    <div class="content-block-line-col-2-d2"><span>+2&nbsp;1&nbsp;-2</span></div>
+                                <div class="content-left-block-line-col-2">
+                                    <div class="content-left-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-left-block-line-col-2-d2"><span>+2&nbsp;1&nbsp;-2</span></div>
                                     <div class="clearfix"></div>
-                                    <div class="content-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
+                                    <div class="content-left-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
                                 </div>
                                 <div class="clearfix"></div>
                             </div>
-                            <div class="content-block-last-line">
-                                <div class="content-block-line-col-1">
+                            <div class="content-left-block-line">
+                                <div class="content-left-block-line-col-1">
                                     <img src="">
                                 </div>
-                                <div class="content-block-line-col-2">
-                                    <div class="content-block-line-col-2-d1">Имя/Название</div>
-                                    <div class="content-block-line-col-2-d2"><span>+3&nbsp;2&nbsp;-3</span></div>
+                                <div class="content-left-block-line-col-2">
+                                    <div class="content-left-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-left-block-line-col-2-d2"><span>+2&nbsp;1&nbsp;-2</span></div>
                                     <div class="clearfix"></div>
-                                    <div class="content-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
+                                    <div class="content-left-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-left-block-line">
+                                <div class="content-left-block-line-col-1">
+                                    <img src="">
+                                </div>
+                                <div class="content-left-block-line-col-2">
+                                    <div class="content-left-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-left-block-line-col-2-d2"><span>+2&nbsp;1&nbsp;-2</span></div>
+                                    <div class="clearfix"></div>
+                                    <div class="content-left-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-left-block-last-line">
+                                <div class="content-left-block-line-col-1">
+                                    <img src="">
+                                </div>
+                                <div class="content-left-block-line-col-2">
+                                    <div class="content-left-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-left-block-line-col-2-d2"><span>+3&nbsp;2&nbsp;-3</span></div>
+                                    <div class="clearfix"></div>
+                                    <div class="content-left-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
                                 </div>
                                 <div class="clearfix"></div>
                             </div>
                         </div>
                     </div>
-                    <div class="span6 content-center" style="background-color: #46a546;">2
+                    
+                    <div class="span6 content-center">
+                        <div>
+                            <div class="content-center-block-header">
+                                <a class="content-center-block-header-a1" href="#">Новости</a>
+                                <a class="content-center-block-header-a2" href="#">Все новости</a>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-center-block-first-line">
+                                <div class="content-center-block-line-col-1">
+                                    <img src="">
+                                </div>
+                                <div class="content-center-block-line-col-2">
+                                    <div class="content-center-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-center-block-line-col-2-d2"><span>30.09.15</span></div>
+                                    <div class="clearfix"></div>
+                                    <div class="content-center-block-line-col-2-d3">
+                                        текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-center-block-line">
+                                <div class="content-center-block-line-col-1">
+                                    <img src="">
+                                </div>
+                                <div class="content-center-block-line-col-2">
+                                    <div class="content-center-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-center-block-line-col-2-d2"><span>30.09.15</span></div>
+                                    <div class="clearfix"></div>
+                                    <div class="content-center-block-line-col-2-d3">
+                                        текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-center-block-line">
+                                <div class="content-center-block-line-col-1">
+                                    <img src="">
+                                </div>
+                                <div class="content-center-block-line-col-2">
+                                    <div class="content-center-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-center-block-line-col-2-d2"><span>30.09.15</span></div>
+                                    <div class="clearfix"></div>
+                                    <div class="content-center-block-line-col-2-d3">
+                                        текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-center-block-last-line">
+                                <div class="content-center-block-line-col-1">
+                                    <img src="">
+                                </div>
+                                <div class="content-center-block-line-col-2">
+                                    <div class="content-center-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-center-block-line-col-2-d2"><span>30.09.15</span></div>
+                                    <div class="clearfix"></div>
+                                    <div class="content-center-block-line-col-2-d3">
+                                        текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="span3 content-right" style="background-color: #46a546;">3
+                    
+                    <div class="span3 content-right">
+                        <div>
+                            <div class="ad-block-first"><p>Рекламный баннер</p></div>
+                            <div class="ad-block"><p>Рекламный баннер</p></div>
+                            <div class="ad-block"><p>Рекламный баннер</p></div>
+                            <div class="ad-block-last"><p>Рекламный баннер</p></div>
+                        </div>
                     </div>
                 </div><!-- .content -->
             </div><!-- .content-wrapper -->
