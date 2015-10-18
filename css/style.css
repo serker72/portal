@@ -29,10 +29,12 @@ body {
 .header1 {
     height: 40px;
     background-color: #adadad;
-    /*padding-top: 5px;*/
+}
+.header1-wrapper {
+    padding-top: 5px;
 }
 .header1_1 {
-    background: url(../images/key_d.png) no-repeat left 35px top 10px;
+    background: url(../images/key_d.png) no-repeat left 35px top 5px;
     /*padding-top: 5px;*/
 }
 .header1_1 a {
@@ -44,7 +46,7 @@ body {
     text-decoration: underline;
 }
 .header1_2 {
-    background: url(../images/pin2.png) no-repeat left 75px top 10px;
+    background: url(../images/pin2.png) no-repeat left 75px top 5px;
     /*padding-top: 5px;*/
 }
 #header1_2_1 {
@@ -147,14 +149,14 @@ body {
 }
 #header3_1_1 {
     margin-left: 88px;
-    margin-right: 40px;
+    margin-right: 30px;
     padding-left: 20px;
     height: 26px;
     border-bottom: 1px #c4c4c4 solid;
 }
 #header3_1_2 {
     margin-left: 88px;
-    margin-right: 40px;
+    margin-right: 30px;
     padding-left: 20px;
 }
 .logo {
@@ -293,9 +295,17 @@ body {
     padding-left: 0px;
     padding-top: 49px;
 }
+.content-center-block-label {
+    font-family: "PFDinTextPro", "HelveticaNeue Light"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 24px;
+    font-weight: bold;
+    color: #adadad;
+    margin-top: 18px;
+    margin-bottom: 11px;
+}
 .content-center-block-header {
     background-color: #adadad;
-    height: 33px;
+    height: 30px;
 }
 .content-center-block-header-a1 {
     font-family: "HelveticaNeue"; /*, Verdana, Tahoma, Sans-serif;*/
@@ -313,6 +323,28 @@ body {
     color: #dedede;
     padding-right: 10px;
     text-decoration: underline;
+    float: right;
+}
+.content-center-block-header-p1 {
+    font-family: "HelveticaNeue"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 15px;
+    font-weight: bold;
+    color: #ffffff;
+    padding-left: 10px;
+    padding-top: 5px;
+    text-decoration: none;
+    float: left;
+}
+.content-center-block-header-p2 {
+    background: url(../images/cloud1.png) no-repeat left top 10px;
+    font-family: "HelveticaNeue"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 15px;
+    font-weight: bold;
+    color: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    text-decoration: none;
     float: right;
 }
 .content-center-block-first-line {
@@ -372,6 +404,15 @@ body {
     text-decoration: none;
     float: left;
 }
+.content-center-block-first-line-1 {
+    border-left: #adadad 1px solid;
+    border-right: #adadad 1px solid;
+    border-top: #adadad 1px solid;
+    padding-left: 7px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+    margin-top: 15px;
+}
 
 
 .content-right {
@@ -385,10 +426,10 @@ body {
     font-weight: bold;
     background-color: #cecbe9;
     width: 220px;
-    height: 210px;
+    height: 225px;
     text-align: center;
     text-transform: uppercase;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 .ad-block {
     color: #ffffff;
@@ -397,11 +438,11 @@ body {
     font-weight: bold;
     background-color: #cecbe9;
     width: 220px;
-    height: 210px;
+    height: 225px;
     text-align: center;
     vertical-align: middle;
     text-transform: uppercase;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 .ad-block-last {
     color: #ffffff;
@@ -410,7 +451,7 @@ body {
     font-weight: bold;
     background-color: #cecbe9;
     width: 220px;
-    height: 95px;
+    height: 110px;
     text-align: center;
     vertical-align: middle;
     text-transform: uppercase;

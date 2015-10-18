@@ -15,20 +15,22 @@
         <div class="wrapper">
             <div class="header row-fluid">
                 <div class="header1">
-                    <div class="span2 header1_1">
-                        <a href="#">Войти на сайт</a>
-                    </div>
-                    <div class="span5 offset5 header1_2">
-                        <div id="header1_2_1">
-                            <a href="#">Екатеринбург</a>
+                    <div class="header1-wrapper">
+                        <div class="span2 header1_1">
+                            <a href="#">Войти на сайт</a>
                         </div>
-                        <div id="header1_2_2">
-                            <a href="#"><img src="images/down.png" width="8px"></a>
+                        <div class="span5 offset5 header1_2">
+                            <div id="header1_2_1">
+                                <a href="#">Екатеринбург</a>
+                            </div>
+                            <div id="header1_2_2">
+                                <a href="#"><img src="images/down.png" width="8px"></a>
+                            </div>
+                            <div id="header1_2_3">
+                                <input type="text" id="" name="" value="" placeholder="Поиск">
+                            </div>
                         </div>
-                        <div id="header1_2_3">
-                            <input type="text" id="" name="" value="" placeholder="Поиск">
-                        </div>
-                    </div>
+                    </div><!-- .header1-wrapper -->
                 </div><!-- .header1 -->
                 <div class="header2">
                     <div class="span4">
@@ -296,6 +298,62 @@
                                         текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст
                                     </div>
                                 </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="content-center-block-label">Последние добавленные заказы</div>
+                            <div class="content-center-block-first-line-1">
+                                    <div class="content-center-block-line-col-2-d1">Заголовок</div>
+                                    <div class="clearfix"></div>
+                                    <div class="content-center-block-line-col-2-d3">
+                                        текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст
+                                    </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-center-block-header">
+                                <div class="content-center-block-header-p1">30.09.15</div>
+                                <div class="content-center-block-header-p2">Предложений: 3</div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-center-block-first-line-1">
+                                    <div class="content-center-block-line-col-2-d1">Заголовок</div>
+                                    <div class="clearfix"></div>
+                                    <div class="content-center-block-line-col-2-d3">
+                                        текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст
+                                    </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-center-block-header">
+                                <div class="content-center-block-header-p1">30.09.15</div>
+                                <div class="content-center-block-header-p2">Предложений: 3</div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-center-block-first-line-1">
+                                    <div class="content-center-block-line-col-2-d1">Заголовок</div>
+                                    <div class="clearfix"></div>
+                                    <div class="content-center-block-line-col-2-d3">
+                                        текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст
+                                    </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-center-block-header">
+                                <div class="content-center-block-header-p1">30.09.15</div>
+                                <div class="content-center-block-header-p2">Предложений: 3</div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-center-block-first-line-1">
+                                    <div class="content-center-block-line-col-2-d1">Заголовок</div>
+                                    <div class="clearfix"></div>
+                                    <div class="content-center-block-line-col-2-d3">
+                                        текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст
+                                    </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-center-block-header">
+                                <div class="content-center-block-header-p1">30.09.15</div>
+                                <div class="content-center-block-header-p2">Предложений: 3</div>
                                 <div class="clearfix"></div>
                             </div>
                         </div>
