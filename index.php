@@ -141,6 +141,50 @@
                                 <div class="clearfix"></div>
                             </div>
                         </div>
+                        <div>
+                            <div class="content-block-label">Мастера</div>
+                            <div class="content-block-header">
+                                <a class="content-block-header-a1" href="#">Случайные</a>
+                                <a class="content-block-header-a2" href="#">Новые</a>
+                                <a class="content-block-header-a2" href="#">Популярные</a>
+                            </div>
+                            <div class="content-block-first-line">
+                                <div class="content-block-line-col-1">
+                                    <img src="">
+                                </div>
+                                <div class="content-block-line-col-2">
+                                    <div class="content-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-block-line-col-2-d2"><span>+1&nbsp;0&nbsp;-1</span></div>
+                                    <div class="clearfix"></div>
+                                    <div class="content-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-block-line">
+                                <div class="content-block-line-col-1">
+                                    <img src="">
+                                </div>
+                                <div class="content-block-line-col-2">
+                                    <div class="content-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-block-line-col-2-d2"><span>+2&nbsp;1&nbsp;-2</span></div>
+                                    <div class="clearfix"></div>
+                                    <div class="content-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="content-block-last-line">
+                                <div class="content-block-line-col-1">
+                                    <img src="">
+                                </div>
+                                <div class="content-block-line-col-2">
+                                    <div class="content-block-line-col-2-d1">Имя/Название</div>
+                                    <div class="content-block-line-col-2-d2"><span>+3&nbsp;2&nbsp;-3</span></div>
+                                    <div class="clearfix"></div>
+                                    <div class="content-block-line-col-2-d3">текст текст текст текст текст текст текст текст</div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
                     </div>
                     <div class="span6 content-center" style="background-color: #46a546;">2
                     </div>
