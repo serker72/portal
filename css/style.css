@@ -11,7 +11,7 @@ html {
     height: 100%;
 }
 body {
-    background: url(../images/bg.jpg) repeat;
+    background: url(../images/bg.png) repeat;
     font: 12px/18px Arial, Tahoma, Verdana, sans-serif;
     height: 100%;
     width: 100%;
@@ -200,6 +200,92 @@ body {
     padding: 0;
     margin: 0;
     min-height: 200px;
+}
+.content-left {
+    padding-left: 35px;
+}
+.content-block-label {
+    font-family: "PFDinTextPro", "HelveticaNeue Light"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 24px;
+    font-weight: bold;
+    color: #c4c4c4;
+    margin-top: 18px;
+    margin-bottom: 11px;
+}
+.content-block-header {
+    background-color: #eb4e2d;
+    height: 33px;
+}
+.content-block-header-a1 {
+    font-family: "HelveticaNeue"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 17px;
+    font-weight: bold;
+    color: #ffffff;
+    padding-left: 6px;
+    text-decoration: underline;
+}
+.content-block-header-a2 {
+    font-family: "HelveticaNeue"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 13px;
+    font-weight: bold;
+    color: #f7b8ab;
+    padding-left: 14px;
+    text-decoration: underline;
+}
+.content-block-first-line {
+    border-left: #eb4e2d 1px solid;
+    border-right: #eb4e2d 1px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.content-block-line {
+    border-left: #eb4e2d 1px solid;
+    border-right: #eb4e2d 1px solid;
+    padding-bottom: 10px;
+}
+.content-block-last-line {
+    border-left: #eb4e2d 1px solid;
+    border-right: #eb4e2d 1px solid;
+    border-bottom: #eb4e2d 1px solid;
+    margin-bottom: 30px;
+}
+.content-block-line-col-1 {
+    width: 23%;
+    float: left;
+}
+.content-block-line-col-1 img {
+    width: 84%;
+    height: auto;
+    margin: 0px 5px;
+}
+.content-block-line-col-2 {
+    width: 72%;
+    float: right;
+    padding: 0 5px;
+}
+.content-block-line-col-2-d1 {
+    font-family: "HelveticaNeue Regular"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 17px;
+    color: #c4c4c4;
+    text-decoration: underline;
+    padding-top: 5px;
+    float: left;
+}
+.content-block-line-col-2-d2 {
+    background: url(../images/cloud.png) no-repeat left center;
+    color: #eb4e2d;
+    float: right;
+    width: 65px;
+}
+.content-block-line-col-2-d2 span {
+    padding-left: 20px;
+    font-weight: bold;
+}
+.content-block-line-col-2-d3 {
+    font-family: "HelveticaNeue Regular"; /*, Verdana, Tahoma, Sans-serif;*/
+    font-size: 15px;
+    color: #c4c4c4;
+    text-decoration: none;
 }
 
 /*--------------------- FOOTER -----------------------*/
